@@ -146,7 +146,7 @@ Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 # Translation and other improvements
 Nikita Kiselov(https://github.com/kinivi)
 
-#train of some other gesture and improvement
+# Trainning of gestures and improvements
 Md Thouhedul Alam Tonoy(https://github.com/md-t-a-tonoy)
  
 # License 
